@@ -13,7 +13,7 @@ This project aims to use training and validaiton data to create a price predicti
  The data is downloaded form the Kaggle Bluebook for bulldozers.
  All information on the data can be found there. 
 www.kaggle.com/c/bluebook-for-bulldozers/overview
-# 3. Evaltuation
+# 3. Evaluation
 
  The evaluation metric for this competitino is the RMSLE between the actual and predicted auction prices.
 
