@@ -3,14 +3,23 @@ Educational project from Udemy course based on Kaggle project
 
 This project aims to use training and validaiton data to create a price prediction model which is then tested for accurcy on a test data set. Multiple regressors will be tested.
 
-# Motivation 
+ Predicting the sale Price of Bulldozers using Machine Learning (Time Series Data)
 
-We aim to accurately predict the pricing of bulldozers based on multiple features provided.
+# 1. Problem Definition
+ How well can we predict the future sale price of Bulldozers given charactistics and previous data of similar bulldozers.
 
-# Datasets 
+# 2. Data
 
-The dataset used is bulldozer pricing data from Kaggle.com
+ The data is downloaded form the Kaggle Bluebook for bulldozers.
+ All information on the data can be found there. 
+www.kaggle.com/c/bluebook-for-bulldozers/overview
+# 3. Evaltuation
 
+ The evaluation metric for this competitino is the RMSLE between the actual and predicted auction prices.
+
+# 4. Features
+
+ Kaggle provides a data dictionary
 
 # Files 
 
