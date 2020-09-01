@@ -15,7 +15,7 @@ This project aims to use training and validaiton data to create a price predicti
 www.kaggle.com/c/bluebook-for-bulldozers/overview
 # 3. Evaluation
 
- The evaluation metric for this competitino is the RMSLE between the actual and predicted auction prices.
+ The evaluation metric for this competition is the RMSLE between the actual and predicted auction prices.
 
 # 4. Features
 
