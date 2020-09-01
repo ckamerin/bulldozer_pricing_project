@@ -10,7 +10,7 @@ This project aims to use training and validaiton data to create a price predicti
 
 # 2. Data
 
- The data is downloaded form the Kaggle Bluebook for bulldozers.
+ The data is downloaded from the Kaggle Bluebook for bulldozers.
  All information on the data can be found there. 
 www.kaggle.com/c/bluebook-for-bulldozers/overview
 # 3. Evaluation
